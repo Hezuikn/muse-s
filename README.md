@@ -1,4 +1,4 @@
-to elaborate a bit on why i want it
+## to elaborate a bit on why i want it
 
 - realtime sleep staging
 - tracking sleep onset
@@ -29,3 +29,13 @@ https://www.affectablesleep.com/science#research
 https://www.soundmind.co/blog/how-soundmind-increasses-the-efficiency-of-deep-sleep
 
 https://www.soundmind.co/blog/neurohacking-the-world-sleep-championships
+
+## contact
+
+https://hezuikn.github.io/index.html
+
+twitter hezuikn_isekai
+
+discord hezuikn
+
+gmail hezuiknx
