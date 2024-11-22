@@ -32,10 +32,12 @@ https://www.soundmind.co/blog/neurohacking-the-world-sleep-championships
 
 ## contact
 
-https://hezuikn.github.io/index.html
-
 twitter hezuikn_isekai
 
 discord hezuikn
 
 gmail hezuiknx
+
+## thing i made
+
+https://hezuikn.github.io/index.html
