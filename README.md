@@ -1,4 +1,4 @@
-## to elaborate a bit on why i want it
+## why i want it
 
 - realtime sleep staging
 - tracking sleep onset
